@@ -1,4 +1,4 @@
-#profile-title: 🎄 CarWhiteVPN 🎄
+#profile-title: 🐱 CarWhiteVPN 🐱
 #subscription-userinfo: upload=123456789000; download=987654321000000; total=0; expire=0
 #support-url: https://t.me/catlergememe
 #announce: Версия 1.0 
