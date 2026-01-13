@@ -3,7 +3,9 @@
 #support-url: catlergememe
 #announce: Версия 1.1 gouda
 vless://98895157-4ded-4eeb-a22c-058ed62bdac3@ru01-blh03.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=d3b13f31#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%D0%B2%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B+%7C+LiVPN
-
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7+Iran
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7+Iran
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#%40Filter_breaker
 trojan://BxceQaOe@54.250.239.2:3194?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
